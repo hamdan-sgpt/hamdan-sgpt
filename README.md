@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Hamdan 👋</h1>
-<h3 align="center">🎮 Minecraft Mod Developer & Passionate Coder</h3>
+<h3 align="center">🎮 Game Developer & Minecraft Mod Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Minecraft+Forge+Mod+Developer;Building+Custom+Among+Us+Experience;Game+Logic+%26+Java+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Java+%26+Game+Development+Enthusiast;Minecraft+Forge+%26+Fabric+Modder;Building+Interactive+Systems+%26+Minigames;Always+Exploring+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
-- 🔭 Currently developing **[AMOGUS-GTW]**, a custom **Among Us Minecraft Mod (Forge 1.20.1)** featuring bilingual systems, custom 3D bridge mechanics, and interactive sabotages.
-- ⚡ Tech Enthusiast passionate about Java, Game Development, and Modding.
-- 👯 Collaborating on team projects and multi-client game implementations.
-- 💬 Ask me about **Minecraft Modding**, **Java Logic**, or **Game Mechanics**.
+- 🔭 Passionate software & game developer crafting custom **Minecraft Mods**, interactive systems, and multiplayer experiences.
+- ⚡ Experienced in **Java**, **Forge API**, custom UI design, network packets, and game logic engineering.
+- 👯 Love collaborating on innovative gaming projects, tools, and custom modding mechanics.
+- 💬 Ask me about **Minecraft Modding**, **Java Architecture**, or **Game Mechanics**.
 
 ---
 
@@ -41,14 +41,46 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects & Focus Areas
 
-<div align="center">
-  <h3>🛸 AMOGUS-GTW (Among Us Minecraft Mod)</h3>
-  <p>Custom 1.20.1 Forge mod recreating full Among Us gameplay with 3D Bridges, Sabotage Panels, Task Systems & Multi-language Support.</p>
-  <img src="https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Minecraft-1.20.1-orange?style=flat-square" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛸 Among Us Minecraft Mod</h3>
+      <p align="center">Custom 1.20.1 Forge mod recreating complete Among Us gameplay with 3D Bridges, Sabotage Panels, Task Systems & Multi-language Support.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-1.20.1-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Forge-Mod-brightgreen?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 Custom Minecraft Modding & Systems</h3>
+      <p align="center">Developing interactive Forge/Fabric gameplay features, mini-games, custom UI screens, packet networking, and custom block entities.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Minecraft-Modding-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI_Design-GUI-purple?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Java & Game Logic Experiments</h3>
+      <p align="center">Exploring high-performance game algorithms, procedural generation, multiplayer syncing, and custom server-client mechanics.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-Core-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-Clean-yellow?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Developer Tools & Utility Scripts</h3>
+      <p align="center">Crafting automated batch scripts, build pipeline helpers, and workflow utilities for seamless team development.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Automation-Batch-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Git-Workflow-black?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
