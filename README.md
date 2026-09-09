@@ -83,8 +83,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamdan-sgpt&show_icons=true&hide_border=true&bg_color=000116&title_color=3b899a&icon_color=a47451&text_color=9c9881&border_color=095b79" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdan-sgpt&layout=compact&hide_border=true&bg_color=000116&title_color=3b899a&text_color=9c9881&border_color=095b79" height="160"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=hamdan-sgpt&show_icons=true&hide_border=true&bg_color=000116&title_color=3b899a&icon_color=a47451&text_color=9c9881&border_color=095b79" height="160" alt="Hamdan's GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamdan-sgpt&layout=compact&hide_border=true&bg_color=000116&title_color=3b899a&text_color=9c9881&border_color=095b79" height="160" alt="Top Languages"/>
+
+</div>
+
+<div align="center" style="margin-top: 12px;">
+
+<img src="https://streak-stats.demolab.com/?user=hamdan-sgpt&background=000116&border=095b79&stroke=3b899a&ring=a47451&fire=a47451&currStreakNum=73a09d&sideNums=9c9881&sideLabels=73a09d&dates=9c9881&hide_border=true" alt="GitHub Streak" height="150"/>
 
 </div>
 
