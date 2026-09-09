@@ -6,7 +6,8 @@
 
 ```ini
 [DEVELOPER] Hamdan (hamdan-sgpt)
-[FOCUS]     Minecraft 1.20.1 Forge Architecture & Paper/Spigot Game Logic
+[EXPERTISE] Multi-Version Minecraft Architecture & Game Engine Logic (Any Version)
+[MODDING]   Forge // Fabric // NeoForge // Paper // Spigot
 [MISSION]   Turning complex game mechanics and psychological minigames into multiplayer reality
 ```
 
@@ -16,13 +17,13 @@
 
 <br/>
 
-[![Java](https://img.shields.io/badge/Java_21-000116?style=for-the-badge&logo=openjdk&logoColor=a47451&labelColor=002847)](#)
-[![Forge](https://img.shields.io/badge/Forge_1.20.1-000116?style=for-the-badge&logo=minecraft&logoColor=73a09d&labelColor=002847)](#)
-[![Paper](https://img.shields.io/badge/Paper_Spigot-000116?style=for-the-badge&logo=curseforge&logoColor=9c9881&labelColor=002847)](#)
+[![Java](https://img.shields.io/badge/Java_JDK-000116?style=for-the-badge&logo=openjdk&logoColor=a47451&labelColor=002847)](#)
+[![Minecraft Modding](https://img.shields.io/badge/Minecraft_Modding_(All_Versions)-000116?style=for-the-badge&logo=minecraft&logoColor=73a09d&labelColor=002847)](#)
+[![Paper Spigot](https://img.shields.io/badge/Paper_/_Spigot-000116?style=for-the-badge&logo=curseforge&logoColor=9c9881&labelColor=002847)](#)
 [![Voice Chat](https://img.shields.io/badge/Voice_Chat_API-000116?style=for-the-badge&logo=discord&logoColor=3b899a&labelColor=002847)](#)
 [![React](https://img.shields.io/badge/React_18-000116?style=for-the-badge&logo=react&logoColor=73a09d&labelColor=002847)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-000116?style=for-the-badge&logo=node.js&logoColor=3b899a&labelColor=002847)](#)
-[![Gradle](https://img.shields.io/badge/Gradle_8-000116?style=for-the-badge&logo=gradle&logoColor=095b79&labelColor=002847)](#)
+[![Gradle](https://img.shields.io/badge/Gradle-000116?style=for-the-badge&logo=gradle&logoColor=095b79&labelColor=002847)](#)
 
 </div>
 
@@ -44,7 +45,7 @@
 - `Forge 1.20.1` `Gothic UI` `Horror Mechanics`
 
 #### 🎵 [spoticraft-player](https://github.com/hamdan-sgpt/spoticraft-player)
-> *In-Game Web Audio Companion Player*
+> *In-Game Web Audio Companion Player (Minecraft 1.21)*
 - **Streaming:** Synchronized audio playback for the Minecraft 1.21 SpotiCraft plugin via YouTube audio API.
 - **Client:** Responsive web player interface with dark mode and real-time playback controls.
 - `HTML5 WebAudio` `JavaScript ES6+` `Plugin Companion` · [**Live Web Player ↗**](https://hamdan-sgpt.github.io/spoticraft-player/)
@@ -61,7 +62,7 @@
 - `Java` `Forge Mod` `Asymmetric PvP`
 
 #### 🪪 [RPGIdentityCard](https://github.com/hamdan-sgpt/RPGIdentityCard)
-> *Dynamic In-Game Indonesian KTP Renderer*
+> *Dynamic In-Game Indonesian KTP Renderer (Paper/Spigot 1.20.1)*
 - **Visuals:** Real-time 2D map renderer creating Indonesian KTP ID cards with player face skins and server citizenship info.
 - `Paper/Spigot 1.20.1` `Map Canvas API` `RPG Identity`
 
