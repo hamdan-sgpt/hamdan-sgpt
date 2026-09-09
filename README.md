@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:080c14,35:1a0b2e,70:003366,100:00f0ff&height=180&section=header&text=HAMDAN&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=SYSTEMS%20ENGINEER%20%2F%2F%20MINECRAFT%20MODDER%20%2F%2F%20GAMEPLAY%20MECHANICS&descAlignY=62&descSize=13&descColor=00f0ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:a47451,17:9c9881,33:73a09d,50:3b899a,67:095b79,83:002847,100:000116&height=180&section=header&text=HAMDAN&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=MINECRAFT%20MODDER%20%2F%2F%20SYSTEMS%20ENGINEER%20%2F%2F%20GAMEPLAY%20MECHANICS&descAlignY=62&descSize=13&descColor=73a09d&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -16,13 +16,13 @@
 
 <br/>
 
-[![Java](https://img.shields.io/badge/Java_21-090d16?style=for-the-badge&logo=openjdk&logoColor=f89820&labelColor=090d16)](#)
-[![Forge](https://img.shields.io/badge/Forge_1.20.1-090d16?style=for-the-badge&logo=minecraft&logoColor=00ff88&labelColor=090d16)](#)
-[![Paper](https://img.shields.io/badge/Paper_Spigot-090d16?style=for-the-badge&logo=curseforge&logoColor=f7df1e&labelColor=090d16)](#)
-[![Voice Chat](https://img.shields.io/badge/Voice_Chat_API-090d16?style=for-the-badge&logo=discord&logoColor=00f0ff&labelColor=090d16)](#)
-[![React](https://img.shields.io/badge/React_18-090d16?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=090d16)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-090d16?style=for-the-badge&logo=node.js&logoColor=39ff14&labelColor=090d16)](#)
-[![Gradle](https://img.shields.io/badge/Gradle_8-090d16?style=for-the-badge&logo=gradle&logoColor=00f0ff&labelColor=090d16)](#)
+[![Java](https://img.shields.io/badge/Java_21-000116?style=for-the-badge&logo=openjdk&logoColor=a47451&labelColor=002847)](#)
+[![Forge](https://img.shields.io/badge/Forge_1.20.1-000116?style=for-the-badge&logo=minecraft&logoColor=73a09d&labelColor=002847)](#)
+[![Paper](https://img.shields.io/badge/Paper_Spigot-000116?style=for-the-badge&logo=curseforge&logoColor=9c9881&labelColor=002847)](#)
+[![Voice Chat](https://img.shields.io/badge/Voice_Chat_API-000116?style=for-the-badge&logo=discord&logoColor=3b899a&labelColor=002847)](#)
+[![React](https://img.shields.io/badge/React_18-000116?style=for-the-badge&logo=react&logoColor=73a09d&labelColor=002847)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-000116?style=for-the-badge&logo=node.js&logoColor=3b899a&labelColor=002847)](#)
+[![Gradle](https://img.shields.io/badge/Gradle_8-000116?style=for-the-badge&logo=gradle&logoColor=095b79&labelColor=002847)](#)
 
 </div>
 
@@ -83,13 +83,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamdan-sgpt&show_icons=true&hide_border=true&bg_color=080c14&title_color=00f0ff&icon_color=00ff88&text_color=c9d1d9&border_color=00f0ff" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdan-sgpt&layout=compact&hide_border=true&bg_color=080c14&title_color=00f0ff&text_color=c9d1d9&border_color=00f0ff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hamdan-sgpt&show_icons=true&hide_border=true&bg_color=000116&title_color=3b899a&icon_color=a47451&text_color=9c9881&border_color=095b79" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdan-sgpt&layout=compact&hide_border=true&bg_color=000116&title_color=3b899a&text_color=9c9881&border_color=095b79" height="160"/>
 
 </div>
 
 <div align="center" style="margin-top: 20px;">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:080c14,50:00f0ff,100:00ff88&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000116,20:002847,40:095b79,60:3b899a,80:73a09d,100:a47451&height=60&section=footer" width="100%"/>
 
 </div>
